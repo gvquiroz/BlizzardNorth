@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile_cesped" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile_cesped.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="tile" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="513" name="tileset_casita" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tileset_casita.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="769" name="tilestreesezra" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tilestreesezra.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="treecomp (1)" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/treecomp (1).png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC3NkYGBwojN2BuJAIA6iMw6mkb0vibTXBYhdkTC9/BsCxKFImF72pgBxKhIeLPHbNUD2DpR/R+0dtXfU3lF7R+0dtXfUXuramwjESXTGyUAMAAl3Hiu4CwAA
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9WUzU7CQBSFh47yAKA8gFD2lKJrBGUN8rcFqu79eQB8E30QIMElvJPfoiQIpZmZTgmc5MtdTHPPPXcmFUJPjiOEhAu4hKyj2cBQOXzycAXXULDoO8gIMcxEn93gU4QSuFCO8Y3ro3K+UQUPD6rgQw1u4S7lXdfpfw8NaMIDPEJLwVc1W5Ta9O/AE3ShB30YhL4z+s5hYdj/kEb0H8MEAniGF3g90pu2KdP99yzv9FS0Itc6YbYkb9q2pszxZWmWU8qlqm/m/TmzmdPQkh38ntEedu8tkPxn5X5Ny2+jDzw+5X59t+gdpbTzbms7e9K8HcM3ZjNvUf6vcbJ1vyW+d6V6fQs9dquOPL73oaZR/wATwkNmuAsAAA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgIB4wMmEXZ8chTipwZ2Rg8GDEFBfEYb44DnFc5hArDwOKOMxXp5J/iQEiRLgTGRDrt1FAGzAa/qhgNzAs9lIYHoMpTAuB7iiiklsGk7+IBROB7p00iNy8GOiWJQPgns1AO7cMonAgBNDjLYmZgSGZGZOmlX2EADXtHmhAjN+Hk3+JAaT6V4kZk1Zmxk1TAygNoTgBAHHUG/+4CwAA
+  </data>
+ </layer>
+ <layer name="Colisiones" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgIA04MuLn0wrQ0l6QWbjMI8VefOYQI0+uvdQE5NpLit9ItRdmNi3CYKDCmdqA3PAZqv4lBKiRXmiV5sgB1HTLYPIXsWAoupkWYKiFA7p7kctyWvgFl5nY7KVHWNLTTmSzKfWvCoVuoGcY47OX3DqRUkxr+wDnyBVSuAsAAA==
+  </data>
+ </layer>
+ <layer name="CambiosEscena" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYPAA5gGwkwkJj4JRMApGwSgYBaNgFNAKUNrWAAAa1jbCuAsAAA==
+  </data>
+ </layer>
+ <layer name="Objetos" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OMQEAMAzAoNTT/Gurg757QAEFAAD15veAywLDWYLsuAsAAA==
+  </data>
+ </layer>
+</map>

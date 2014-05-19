@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile_cesped" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile_cesped.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="treecomp (1)" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/treecomp (1).png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="513" name="tile" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="769" name="wood-tileset" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/wood-tileset.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3NMREAIBADwbgAFAAKHvwbIx6YSXXF1tsk9bBh01bY5uXl5eXl5eXl5f18y07YtQfyep3zuAsAAA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQ0PoAAAgHcDDVuG2rgLAAA=
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQ0PoAAAgHcDDVuG2rgLAAA=
+  </data>
+ </layer>
+ <layer name="Colisiones" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQ0PoAAAgHcDDVuG2rgLAAA=
+  </data>
+ </layer>
+ <layer name="CambiosEscena" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3LMQ0AAAwDoCbz73ka2ht+ks2NDwAA6D3dNhsPuAsAAA==
+  </data>
+ </layer>
+</map>

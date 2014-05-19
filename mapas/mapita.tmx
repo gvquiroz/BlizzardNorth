@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="tile_casa" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile_casa.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="513" name="descarga" tilewidth="32" tileheight="32">
+  <image source="../graficos/descarga.jpg" trans="ff00ff" width="225" height="225"/>
+ </tileset>
+ <tileset firstgid="562" name="tile_castillo" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile_castillo.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NkYmBgHMmYgTRAb/NUGUjDo+aNmkdN8wYbBgBEWLS6sAQAAA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGNlAjERMb/OwgcWMDAxLGCHsGEYyDUECm4FmbKGCOdQA94HueEBFt7wHmvVhkPhtoIACMyr/xRAODwAGvg0jsAQAAA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUgoMnIwKDFiCmeCxTLwyI+CkYBLnCCwvQiwIzKvzGa/uAAACkHO+2wBAAA
+  </data>
+ </layer>
+ <layer name="Colisiones" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAXUBPwkYmLMw2UHujw1zCOklhw1pJpHrJkDZR6xYCDDj1rpb7ABAG2jm8SwBAAA
+  </data>
+ </layer>
+</map>

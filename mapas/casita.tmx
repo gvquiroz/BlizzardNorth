@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tile_casa" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile_casa.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="tile" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="513" name="negro" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/negro.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="769" name="tile_doors" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/tile_doors.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="celiannatiled" tilewidth="32" tileheight="32">
+  <image source="../graficos/tilesets/celiannatiled.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1NhYmBQGcUjElMKhpq9qoyU4VF7R+0dtXfU3lF7R+0dyvaO4qGPAen3q0a4CwAA
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUjFbAxUobpae9SFgaGZSyU2QsDi4F4CRJfDI+ZW4F2bmOh3E4Q2AzEW/DY68gCwfQG4UA7I+hgL7p/nVggmN720sJ8XJgQUKPA//eB+AEO9xACZhTY+x6IP5BprxsN4pvW8YsNxAyQvQwDaO9AgeEezp+A+DMBe1/QxymjYIgAAMQo8y24CwAA
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAUjHeQCcR4eeU0g1qKTW0bBKBgFlAMuFgYGbhb62ysFtFN6AOwdBSMLnBgge2/Q0a52ZjpaNgqGFAAAjwNC1rgLAAA=
+  </data>
+ </layer>
+ <layer name="Colisiones" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9NgYGDQGMUjElMKBtr95PoXG5+QHynxL7H24ooXWscvvewdKP8SGxa0THO0tJMc/w5Fe/GZSQygpr2k5LHh4F9SwHDxL73sxcYnxi3UyMOjeGhiAKq8gaS4CwAA
+  </data>
+ </layer>
+ <layer name="CambiosEscena" width="30" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OMQEAAAwCIFuuf5PF0AMSkAAAsOLaAWY94fGoXLgLAAA=
+  </data>
+ </layer>
+</map>
